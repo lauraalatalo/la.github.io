@@ -1,31 +1,26 @@
 html {	background-color: #bcbcbc;	
-
-
 }
 
 
 
 div { background-color: #e3e3e3; 
 border: 1px solid black;
-
 }
 
 
 
 h1 { font-family: consolas, Arial; 
 color: #de6fa1;
-
-
 }
 
 
 
 h2 {	font-family: consolas, Arial;
-
+color: black;
 }
 
 
 
 p {	font-family: consolas, Arial;
-
+color: black;
 }
